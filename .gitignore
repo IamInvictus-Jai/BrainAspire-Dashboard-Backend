@@ -1,0 +1,5 @@
+# Skip Pushing these files
+__pycache__/
+venv/
+backup/
+.env
